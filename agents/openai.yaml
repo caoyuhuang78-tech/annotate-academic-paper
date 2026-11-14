@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文双栏精读批注"
+  short_description: "制作完整英文原文、逐段中文译文与逻辑批注对应的双栏精读 HTML"
+  default_prompt: "使用 $annotate-academic-paper 生成双栏精读 HTML。左栏保留完整英文与逐段中译，右栏写对应批注，加入段落溯源和主张—证据表，交付前逐块核对 PDF。"
